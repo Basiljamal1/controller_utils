@@ -378,3 +378,4 @@ Storage for reference commands used in controller chaining.
 - [TrapezoidalJointController source]
 
 ## License
+Apache License Version 2.0,

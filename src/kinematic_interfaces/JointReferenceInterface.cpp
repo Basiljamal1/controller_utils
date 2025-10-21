@@ -1,4 +1,3 @@
-
 #include "controller_utils/kinematic_interfaces/JointReferenceInterface.hpp"
 
 namespace controller_utils::interfaces {
